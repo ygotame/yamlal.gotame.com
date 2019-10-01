@@ -1,0 +1,63 @@
+# Site
+#repository: sproogen/jameswgrant
+favicon: images/favicon.ico
+
+# Personal info
+name: Yamlal Gotame
+title: DevSecOps & Cybersecurity
+email: TXkgZW1haWwgaXMgOiB5YW1sYWxAZ290YW1lLmNvbQ==
+website: yamlal.gotame.com
+
+# Social links
+#twitter_username: sproogen
+github_username:  ygotame
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+#instagram_username:
+linkedin_username: ygotame
+# pinterest_username:
+# youtube_username:
+# googleplus_username:
+
+# About Section
+# about_title: About Me
+about_profile_image: images/batman.jpg
+about_content: |
+  Cybersecurity - BI - DevOps - Project Management - More than 8 years of experience in IT field. Fast learner. I speak 5 languages.
+
+  with something new. The things that I currently have the most experience working with are:
+  <mark>Openshift</mark>,
+  <mark>K8S - Kubernetes</mark>,
+  <mark>Docker</mark>,
+  <mark>Virtualmachines</mark>,
+  <mark>Databases</mark>,
+  <mark></mark>,
+  <mark>Linux</mark>,
+  <mark>Python</mark>,
+  <mark>Git</mark> and
+  <mark>AWS - Google Cloud - Azure</mark> services.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+more_title: When I'm Not Programming
+more_content: |
+  Polyglot, he speaks five
+languages (English, French, Nepali, Hindi and Spanish).
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+# sass:
+#   style: compressed
